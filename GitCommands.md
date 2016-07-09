@@ -3,14 +3,14 @@
 ### Common tasks
 Task | Command
 --- | ---
-Add all changes to index and commit | `git commit -A -m "Commit message"`
+Add all changes to index and commit | `git commit -a -m "Commit message"`
 Commits all changes added to the index | `git commit -m "Commit message"`
 Add changes to the index | `git add -A` </br> `git add changed_file.txt` </br> `git add folder_with_changed_files/`
 Push changes to remote master | `git push origin master`
 Merge the given branch to your active branch | `git merge <branchname>`
 Fetch and merge changes from the server | `git pull`
-xxx | `git rebase`
-xxx | `git tag`
+TODO | `git rebase`
+TODO | `git tag`
 
 ### Get info
 Task | Command
